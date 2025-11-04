@@ -1,0 +1,79 @@
+Sam Altman at TED 2025: Inside the most uncomfortable — and important — AI interview of the year
+Michael Nuñez
+April 15, 2025
+Host Chris Anderson and Sam Altman speak at SESSION 11 at TED 2025: Humanity Reimagined. April 7-11, 2025, Vancouver, BC. Photo: Jason Redmond / TED
+
+
+
+
+OpenAI CEO Sam Altman revealed that his company has grown to 800 million weekly active users and is experiencing "unbelievable" growth rates, during a sometimes tense interview at the TED 2025 conference in Vancouver last week.
+
+"I have never seen growth in any company, one that I've been involved with or not, like this," Altman told TED head Chris Anderson during their on-stage conversation. "The growth of ChatGPT — it is really fun. I feel deeply honored. But it is crazy to live through, and our teams are exhausted and stressed."
+
+The interview, which closed out the final day of TED 2025: Humanity Reimagined, showcased not just OpenAI's skyrocketing success but also the increasing scrutiny the company faces as its technology transforms society at a pace that alarms even some of its supporters.
+
+
+'Our GPUs are melting': OpenAI struggles to scale amid unprecedented demand
+Altman painted a picture of a company struggling to keep up with its own success, noting that OpenAI's GPUs are "melting" due to the popularity of its new image generation features. "All day long, I call people and beg them to give us their GPUs. We are so incredibly constrained," he said.
+
+
+This exponential growth comes as OpenAI is reportedly considering launching its own social network to compete with Elon Musk's X, according to CNBC. Altman neither confirmed nor denied these reports during the TED interview.
+
+The company recently closed a $40 billion funding round, valuing it at $300 billion — the largest private tech funding in history — and this influx of capital will likely help address some of these infrastructure challenges.
+
+From non-profit to $300 billion giant: Altman responds to 'Ring of Power' accusations
+Throughout the 47-minute conversation, Anderson repeatedly pressed Altman on OpenAI's transformation from a non-profit research lab to a for-profit company with a $300 billion valuation. Anderson voiced concerns shared by critics, including Elon Musk, who has suggested Altman has been "corrupted by the Ring of Power," referencing "The Lord of the Rings."
+
+Altman defended OpenAI's path: "Our goal is to make AGI and distribute it, make it safe for the broad benefit of humanity. I think by all accounts, we have done a lot in that direction. Clearly, our tactics have shifted over time... We didn't think we would have to build a company around this. We learned a lot about how it goes and the realities of what these systems were going to take from capital."
+
+When asked how he personally handles the enormous power he now wields, Altman responded: "Shockingly, the same as before. I think you can get used to anything step by step... You're the same person. I'm sure I'm not in all sorts of ways, but I don't feel any different."
+
+'Divvying up revenue': OpenAI plans to pay artists whose styles are used by AI
+One of the most concrete policy announcements from the interview was Altman's acknowledgment that OpenAI is working on a system to compensate artists whose styles are emulated by AI.
+
+"I think there are incredible new business models that we and others are excited to explore," Altman said when pressed about apparent IP theft in AI-generated images. "If you say, 'I want to generate art in the style of these seven people, all of whom have consented to that,' how do you divvy up how much money goes to each one?"
+
+Currently, OpenAI's image generator refuses requests to mimic the style of living artists without consent, but will generate art in the style of movements, genres, or studios. Altman suggested a revenue-sharing model could be forthcoming, though details remain scarce.
+
+Autonomous AI agents: The 'most consequential safety challenge' OpenAI has faced
+The conversation grew particularly tense when discussing "agentic AI" — autonomous systems that can take actions on the internet on a user's behalf. OpenAI's new "Operator" tool allows AI to perform tasks like booking restaurants, raising concerns about safety and accountability.
+
+Anderson challenged Altman: "A single person could let that agent out there, and the agent could decide, 'Well, in order to execute on that function, I got to copy myself everywhere.' Are there red lines that you have clearly drawn internally, where you know what the danger moments are?"
+
+Altman referenced OpenAI's "preparedness framework" but provided few specifics about how the company would prevent misuse of autonomous agents.
+
+"AI that you give access to your systems, your information, the ability to click around on your computer... when they make a mistake, it's much higher stakes," Altman acknowledged. "You will not use our agents if you do not trust that they're not going to empty your bank account or delete your data."
+
+'14 definitions from 10 researchers': Inside OpenAI's struggle to define AGI
+In a revealing moment, Altman admitted that even within OpenAI, there's no consensus on what constitutes artificial general intelligence (AGI) — the company's stated goal.
+
+"It's like the joke, if you've got 10 OpenAI researchers in a room and asked to define AGI, you'd get 14 definitions," Altman said.
+
+He suggested that rather than focusing on a specific moment when AGI arrives, we should recognize that "the models are just going to get smarter and more capable and smarter and more capable on this long exponential... We're going to have to contend and get wonderful benefits from this incredible system."
+
+Loosening the guardrails: OpenAI's new approach to content moderation
+Altman also disclosed a significant policy change regarding content moderation, revealing that OpenAI has loosened restrictions on its image generation models.
+
+"We've given the users much more freedom on what we would traditionally think about as speech harms," he explained. "I think part of model alignment is following what the user of a model wants it to do within the very broad bounds of what society decides."
+
+This shift could signal a broader move toward giving users more control over AI outputs, potentially aligning with Altman's expressed preference for letting the hundreds of millions of users — rather than "small elite summits" — determine appropriate guardrails.
+
+"One of the cool new things about AI is our AI can talk to everybody on Earth, and we can learn the collective value preference of what everybody wants, rather than have a bunch of people who are blessed by society to sit in a room and make these decisions," Altman said.
+
+'My kid will never be smarter than AI': Altman's vision of an AI-powered future
+The interview concluded with Altman reflecting on the world his newborn son will inherit — one where AI will exceed human intelligence.
+
+"My kid will never be smarter than AI. They will never grow up in a world where products and services are not incredibly smart, incredibly capable," he said. "It'll be a world of incredible material abundance... where the rate of change is incredibly fast and amazing new things are happening."
+
+Anderson closed with a sobering observation: "Over the next few years, you're going to have some of the biggest opportunities, the biggest moral challenges, the biggest decisions to make of perhaps any human in history."
+
+The billion-user balancing act: How OpenAI navigates power, profit, and purpose
+Altman's TED appearance comes at a critical juncture for OpenAI and the broader AI industry. The company faces mounting legal challenges, including copyright lawsuits from authors and publishers, while simultaneously pushing the boundaries of what AI can do.
+
+Recent advancements like ChatGPT's viral image generation feature and video generation tool Sora have demonstrated capabilities that seemed impossible just months ago. At the same time, these tools have sparked debates about copyright, authenticity, and the future of creative work.
+
+Altman's willingness to engage with difficult questions about safety, ethics, and the societal impact of AI shows an awareness of the stakes involved. However, critics may note that concrete answers on specific safeguards and policies remained elusive throughout the conversation.
+
+The interview also revealed the competing tensions at the heart of OpenAI's mission: moving fast to advance AI technology while ensuring safety; balancing profit motives with societal benefit; respecting creative rights while democratizing creative tools; and navigating between elite expertise and public preference.
+
+As Anderson noted in his final comment, the decisions Altman and his peers make in the coming years may have unprecedented impacts on humanity's future. Whether OpenAI can live up to its stated mission of ensuring "all of humanity benefits from artificial general intelligence" remains to be seen.
